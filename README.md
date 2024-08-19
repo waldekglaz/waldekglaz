@@ -11,10 +11,10 @@ I am a frontend developer
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Node js.
+- Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+- Navigating through the world of React Router for seamless page transitions.
+- Styling with Tailwind CSS to create modern and responsive user interfaces.
+- Building server-side applications with Node js.
 
 
 
