@@ -1,7 +1,24 @@
-## Hi there 👋
+# Hi, I'm Waldemar! 👋
+
+I am a frontend developer
+
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=waldekglaz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Navigating through the world of React Router for seamless page transitions.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Building server-side applications with Node js.
+
+
 
 <!--
-**waldekglaz/waldekglaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
